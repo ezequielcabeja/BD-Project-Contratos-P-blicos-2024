@@ -88,11 +88,11 @@ Seguindo os padrões da 3ª Forma Normal (3ªFN).
 3. Criação e Povoamento do Banco de Dados:
     - Criar a base de dados: 
     ```
-    python povoamento/schema.py
+    python povoamento/Scheme.py
     ```
     - Popular a base de dados:
     ```
-    python povoamento/seed.py
+    python povoamento/Seed.py
     ```
 
 3. Inicie a Interface Web:
